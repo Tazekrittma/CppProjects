@@ -33,4 +33,4 @@ The program provides the following public methods for the Distributeur class:
 * unsigned lister(): a method that prints the contents of the dispenser and returns the number of beverages in the dispenser
 To test the program, create Boisson objects and add them to the Distributeur object using the ajouter method. Use the lister method to print the contents of the dispenser.
 ### Credits
-This Hangman game was created by Massinissa TAZEKRITT.
+This was developed by Massinissa TAZEKRITT.
