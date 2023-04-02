@@ -1,0 +1,46 @@
+﻿La génération a démarré 31/03/2023 10:09:11.
+     1>Projet "C:\Etudiant\L3\Tazekritt\TP2\TP2.vcxproj" sur le nœud 2 (build cible(s)).
+     1>InitializeBuildStatus:
+         Mise à jour de l'horodatage "Debug\TP2.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Distributeur.cpp
+         Distributeur.cpp
+     1>c:\etudiant\l3\tazekritt\tp2\distributeur.cpp(38): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : voir la déclaration de 'strcpy'
+     1>c:\etudiant\l3\tazekritt\tp2\distributeur.cpp(39): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : voir la déclaration de 'strcpy'
+     1>c:\etudiant\l3\tazekritt\tp2\distributeur.cpp(46): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : voir la déclaration de 'strcpy'
+     1>c:\etudiant\l3\tazekritt\tp2\distributeur.cpp(47): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : voir la déclaration de 'strcpy'
+     1>c:\etudiant\l3\tazekritt\tp2\distributeur.cpp(68): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : voir la déclaration de 'strcpy'
+     1>c:\etudiant\l3\tazekritt\tp2\distributeur.cpp(92): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : voir la déclaration de 'strcpy'
+     1>c:\etudiant\l3\tazekritt\tp2\distributeur.cpp(98): warning C4018: '<' : incompatibilité signed/unsigned
+     1>c:\etudiant\l3\tazekritt\tp2\distributeur.cpp(108): warning C4018: '<' : incompatibilité signed/unsigned
+     1>c:\etudiant\l3\tazekritt\tp2\distributeur.cpp(124): warning C4018: '<' : incompatibilité signed/unsigned
+     1>c:\etudiant\l3\tazekritt\tp2\distributeur.cpp(141): warning C4018: '<' : incompatibilité signed/unsigned
+     1>c:\etudiant\l3\tazekritt\tp2\distributeur.cpp(179): warning C4018: '<' : incompatibilité signed/unsigned
+     1>c:\etudiant\l3\tazekritt\tp2\distributeur.cpp(263): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : voir la déclaration de 'getch'
+     1>c:\etudiant\l3\tazekritt\tp2\distributeur.cpp(192): warning C4715: 'Distributeur::commander' : les chemins de contrôle ne retournent pas tous une valeur
+       ManifestResourceCompile:
+         Toutes les sorties sont à jour.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Etudiant\L3\Tazekritt\TP2\Debug\TP2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\TP2.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Etudiant\L3\Tazekritt\TP2\Debug\TP2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Etudiant\L3\Tazekritt\TP2\Debug\TP2.lib" /MACHINE:X86 Debug\TP2.exe.embed.manifest.res
+         Debug\Distributeur.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\TP2.exe.embed.manifest" /manifest Debug\TP2.exe.intermediate.manifest
+         Toutes les sorties sont à jour.
+       LinkEmbedManifest:
+         Toutes les sorties sont à jour.
+         TP2.vcxproj -> C:\Etudiant\L3\Tazekritt\TP2\Debug\TP2.exe
+       FinalizeBuildStatus:
+         Suppression du fichier "Debug\TP2.unsuccessfulbuild".
+         Mise à jour de l'horodatage "Debug\TP2.lastbuildstate".
+     1>Génération du projet "C:\Etudiant\L3\Tazekritt\TP2\TP2.vcxproj" terminée (build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:00.57

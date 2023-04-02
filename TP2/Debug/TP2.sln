@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "TP2", "TP2.exe", "{F1F20905-CEF8-4129-A264-1D9672D805C1}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = C:\Etudiant\L3\Tazekritt\TP2\Debug\TP2.exe
+		RemoteMachine = PC-NE-A002-05
+		StartingDirectory = C:\Etudiant\L3\Tazekritt\TP2\Debug
+		Environment = Par défaut
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1F20905-CEF8-4129-A264-1D9672D805C1}.Debug|x86.ActiveCfg = Debug|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
