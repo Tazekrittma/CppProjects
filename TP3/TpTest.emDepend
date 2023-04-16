@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1680523946 source:c:\etudiant\l3\groupe1-1\tptest\setup\startup.s
+
+1680523198 source:c:\etudiant\l3\groupe1-1\tptest\src\lib_glcd.c
+	"lib_glcd.h"
+	"font5x8.h"
+
+1680523198 c:\etudiant\l3\groupe1-1\tptest\src\lib_glcd.h
+	"stm32f4xx.h"
+	"stm32f4xx_gpio.h"
+	"stm32f4xx_rcc.h"
+
+1680523198 c:\etudiant\l3\groupe1-1\tptest\src\stm32f4xx.h
+	"core_cm4.h"
+	"system_stm32f4xx.h"
+	<stdint.h>
+	"stm32f4xx_conf.h"
+
+1680523198 c:\etudiant\l3\groupe1-1\tptest\src\core_cm4.h
+	<stdint.h>
+	"core_cmInstr.h"
+	"core_cmFunc.h"
+	"core_cm4_simd.h"
+
+1680523198 c:\etudiant\l3\groupe1-1\tptest\src\core_cminstr.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1680523198 c:\etudiant\l3\groupe1-1\tptest\src\core_cmfunc.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1680523198 c:\etudiant\l3\groupe1-1\tptest\src\core_cm4_simd.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1680527053 c:\etudiant\l3\groupe1-1\tptest\src\system_stm32f4xx.h
+
+1680523198 c:\etudiant\l3\groupe1-1\tptest\src\stm32f4xx_gpio.h
+	"stm32f4xx.h"
+
+1680523198 c:\etudiant\l3\groupe1-1\tptest\src\stm32f4xx_rcc.h
+	"stm32f4xx.h"
+
+1680523198 c:\etudiant\l3\groupe1-1\tptest\src\font5x8.h
+
+1680523198 source:c:\etudiant\l3\groupe1-1\tptest\src\lib_gpio.c
+	"stm32f4xx_rcc.h"
+	"lib_gpio.h"
+
+1680523198 c:\etudiant\l3\groupe1-1\tptest\src\lib_gpio.h
+	"stm32f4xx.h"
+	"stm32f4xx_gpio.h"
+
+1680534004 source:c:\etudiant\l3\groupe1-1\tptest\src\main.c
+	"stm32f4xx.h"
+	"stm32f4xx_gpio.h"
+	"stm32f4xx_rcc.h"
+	"Lib_Gpio.h"
+	"stm32f4xx_rng.h"
+
+1680523198 source:c:\etudiant\l3\groupe1-1\tptest\src\stm32f4xx_gpio.c
+	"stm32f4xx_gpio.h"
+	"stm32f4xx_rcc.h"
+
+1680523198 source:c:\etudiant\l3\groupe1-1\tptest\src\stm32f4xx_rcc.c
+	"stm32f4xx_rcc.h"
+
+1680527053 source:c:\etudiant\l3\groupe1-1\tptest\src\system_stm32f4xx.c
+	"stm32f4xx.h"
+
+1406902686 c:\etudiant\l3\groupe1-1\tptest\src\stm32f4xx_rng.h
+	"stm32f4xx.h"
+
+1680527053 source:c:\etudiant\l3\groupe1-1\tptest\src\stm32f4xx_rng.c
+	"stm32f4xx_rng.h"
+	"stm32f4xx_rcc.h"
+
